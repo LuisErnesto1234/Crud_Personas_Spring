@@ -38,7 +38,7 @@ Este proyecto es una aplicación web que implementa un CRUD (Crear, Leer, Actual
    ```
 
 4. **Acceder a la aplicación**
-   - Abre tu navegador y ve a: `http://localhost:8080`
+   - Abre tu navegador y ve a: `http://localhost:8080/app/crud/persona`
 
 ## Funcionalidades
 
@@ -94,7 +94,14 @@ crud-personas/
 </dependencies>
 ```
 ## Imgenes de muestra
-![Pantalla Principal](https://github.com/LuisErnesto1234/TodoListSpring/blob/Main//principal.png)
+```
+```
+### Pantalla Principal
+![Pantalla Principal](https://github.com/LuisErnesto1234/Crud_Personas_Spring/blob/main/snapshot/listado.png)
+### Pantalla Agregar Persona
+![Agregar Persona](https://github.com/LuisErnesto1234/Crud_Personas_Spring/blob/main/snapshot/agregar.png)
+### Pantalla Ver Perfil
+![Ver Perfil](https://github.com/LuisErnesto1234/Crud_Personas_Spring/blob/main/snapshot/perfil_crud.png)
 
 
 ## Contribución
