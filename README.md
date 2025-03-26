@@ -15,8 +15,8 @@ Este proyecto es una aplicación web que implementa un CRUD (Crear, Leer, Actual
 
 1. **Clonar el repositorio**
    ```sh
-   git clone https://github.com/tu_usuario/tu_proyecto.git
-   cd tu_proyecto
+   git clone https://github.com/LuisErnesto1234/Crud_Personas_Spring.git
+   cd ruta de tu proyecto
    ```
 
 2. **Configurar la base de datos**
